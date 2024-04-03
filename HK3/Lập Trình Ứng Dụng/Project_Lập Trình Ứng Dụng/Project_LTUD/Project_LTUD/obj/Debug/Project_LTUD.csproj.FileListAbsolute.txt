@@ -1,0 +1,207 @@
+D:\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe.config
+D:\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe
+D:\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.pdb
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.AssemblyReference.cache
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.SuggestedBindingRedirects.cache
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.frmMain.resources
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Properties.Resources.resources
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinxe.resources
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.GenerateResource.cache
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CoreCompileInputs.cache
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.exe
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.pdb
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinthue.resources
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPN.resources
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPX.resources
+D:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinnv.resources
+E:\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe.config
+E:\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe
+E:\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.pdb
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.AssemblyReference.cache
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.frmMain.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Properties.Resources.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPN.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPX.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKM.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinnv.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPN.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPX.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinthue.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinxe.resources
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.GenerateResource.cache
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CoreCompileInputs.cache
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.exe
+E:\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.pdb
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe.config
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.pdb
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.frmMain.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPN.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPX.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKM.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinnv.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPN.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPX.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinthue.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinxe.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.exe
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.pdb
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.BanHang.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.NhapHang.resources
+D:\LTUD\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe.config
+D:\LTUD\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe
+D:\LTUD\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.pdb
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.AssemblyReference.cache
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.SuggestedBindingRedirects.cache
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.BanHang.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.frmMain.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.NhapHang.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Properties.Resources.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPN.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPX.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKM.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinnv.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPN.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPX.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinthue.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinxe.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.GenerateResource.cache
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CoreCompileInputs.cache
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.exe
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.pdb
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKH.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinLOAIXE.resources
+D:\LTUD\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinNHACC.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\stdole.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INHDBAN.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKH.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinLOAIXE.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinNHACC.resources
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INHDNHAP.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe.config
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.pdb
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\ShockwaveFlashObjects.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\stdole.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.AssemblyReference.cache
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.BanHang.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.frmMain.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INHDBAN.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INHDNHAP.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.NhapHang.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Properties.Resources.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPN.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPX.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKH.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKM.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinLOAIXE.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinNHACC.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinnv.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPN.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPX.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinthue.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinxe.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.GenerateResource.cache
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CoreCompileInputs.cache
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CopyComplete
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.exe
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.pdb
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.Shared.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INCTPN.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INCTPX.resources
+D:\Lập Trình Ứng Dụng\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INKM.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.exe
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\Project_LTUD.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.BanHang.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.frmMain.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INHDBAN.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.NhapHang.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPN.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinCTPX.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKH.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinKM.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinLOAIXE.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThongtinNHACC.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinnv.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPN.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.ThôngtinPX.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinthue.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.Thôngtinxe.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.exe
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INHDNHAP.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INCTPN.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INCTPX.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INKM.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INKH.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INLOAIXE.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INNHACC.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INPN.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INPX.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INTHUE.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INXE.resources
+C:\Users\Admin\Documents\Zalo Received Files\Project_LTUD (1)\Project_LTUD\Project_LTUD\obj\Debug\Project_LTUD.INNV.resources

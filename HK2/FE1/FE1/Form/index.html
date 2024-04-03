@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bai tap</title>
+    <link rel="stylesheet" href="./public/css/style.css">
+</head>
+
+<body>
+    <h2 class="A">Đăng ký</h2>
+    <form action="http://20.92.229.217" method="POST" onsubmit="return validation()">
+        <label>Username:
+        <input type="text" name="username" id="username" placeholder="Nhap username...">
+    </label>
+        <br>
+        <label for="password"> Password:
+            <input type="password" name="password" id="password" placeholder="Nhap password...">
+        </label>
+        <br>
+        Giới tính:
+        <input type="radio" name="gender" id="male" value="male">
+        <label for="male">Nam</label>
+        <label>
+            <input type="radio" name="gender" id="other" value="Female">Nữ
+        </label>
+        <label>
+            <input type="radio" name="gender" id="other" value="other">Khác
+        </label>
+        <br>
+        <label >comment:
+            <textarea name="comment" id="comment" cols="30" rows="2" placeholder="nhap comment..."></textarea>
+        </label>
+        <br>
+        Favourite:
+        <input type="checkbox" name="hobbies" id="study" value="study">Học
+        <input type="checkbox" name="hobbies" id="money" value="money">Tiền
+        <input type="checkbox" name="hobbies" id="car" value="car">Xe
+        <br>
+        <label for="countries">Quốc gia:</label>
+        <select name="countries" id="countries">
+            <option disabled selected>Chọn quốc gia</option>
+            <option value="vi">Việt Nam</option>
+            <option value="jp">Japan</option>
+            <option value="us">America</option>
+        </select>
+        <button type="submit">dong y</button>
+
+    </form>
+
+    <script src="./public/js/app.js"></script>
+</body>
+
+</html>

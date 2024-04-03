@@ -1,0 +1,345 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import "./include/config.scss";
+@import "./include/variable.scss";
+@import "./include/product.scss";
+@import "./include/navigation.scss";
+@import "./include/login.scss";
+@import "./include/addproduct.scss";
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700");
+.main.active {
+  width: calc(100% - var(--nav-toggle-width));
+  left: var(--nav-toggle-width);
+  .topbar {
+    width: calc(100% - var(--nav-toggle-width));
+  }
+}
+
+.main {
+  --spacing: 20px;
+  position: absolute;
+  width: calc(100% - var(--nav-width));
+  left: var(--nav-width);
+  background: $white;
+  transition: 0.5s;
+  .wraper {
+    margin-top: 60px;
+  }
+  .topbar.scrolling {
+    background: $nav_clr;
+  }
+  .topbar {
+    width: calc(100% - var(--nav-width));
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    position: fixed;
+    z-index: 999;
+    transition: 0.5s;
+    .toggle {
+      position: relative;
+      top: 0;
+      width: 60px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      font-size: 2.5em;
+      cursor: pointer;
+    }
+    .search {
+      position: relative;
+      width: 400px;
+      label {
+        position: relative;
+        width: 100%;
+        input {
+          width: 100%;
+          height: 40px;
+          border-radius: 40px;
+          padding: 5px 20px;
+          padding-left: 35px;
+          outline: none;
+          border: 1px solid $black2;
+          font-size: 18px;
+        }
+        ion-icon {
+          position: absolute;
+          top: 50%;
+          transform: translateY(-50%);
+          left: 10px;
+          font-size: 1.2em;
+        }
+      }
+    }
+    .user {
+      position: relative;
+      min-width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      overflow: hidden;
+      cursor: pointer;
+      margin-left: 10px;
+      img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+  .dashboard_infor {
+    display: flex;
+    .revenue-chart {
+      border-radius: 20px;
+      box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+      width: calc(60% - var(--spacing) * 2);
+      padding: 20px;
+      margin-left: 20px;
+      .title-chart {
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 30px;
+      }
+    }
+    .calendar {
+      border-radius: 20px;
+      box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+      width: calc(40% - var(--spacing) * 2);
+      padding: 20px;
+      margin-left: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+  }
+
+  .cardBox {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    margin-top: 60px;
+    .card {
+      position: relative;
+      background: $white;
+      padding: 50px 30px;
+      border-radius: 20px;
+      display: flex;
+      justify-content: space-between;
+      cursor: pointer;
+      box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+      transition: 0.5s;
+      .numbers {
+        position: relative;
+        font-weight: 500;
+        font-size: 2.5em;
+        color: $nav_clr;
+      }
+      .cardName {
+        font-size: 1.1em;
+        margin-top: $black2;
+        margin-top: 5px;
+      }
+      .iconBx {
+        font-size: 3.5em;
+        color: $black2;
+      }
+      &:hover {
+        background: $nav_clr;
+        .numbers,
+        .cardName,
+        .iconBx {
+          color: $white;
+        }
+      }
+    }
+  }
+
+  .details {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    label{
+      font-weight: 500;
+      text-align: center;
+      border-radius: 20px;
+      input{
+        border-radius: 15px;
+        padding: 5px 15px;
+        outline: none;
+        border: 1px solid gray;
+       
+      
+      }
+    }
+    .filter{
+      display: flex;
+      width: 100%;
+      max-width: 900px;
+      justify-content: space-around;
+      align-items: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid;
+      text-align: left;
+      overflow: hidden;
+      margin-top: 15px;
+   
+      td,
+      th {
+        border-top: 1px solid #ecf0f1;
+        padding: 10px;
+      }
+
+      td {
+        border-left: 1px solid #ecf0f1;
+        border-right: 1px solid #ecf0f1;
+      }
+      td {
+        select {
+          padding: 5px;
+          width: 100%;
+          font-size: 1.1rem;
+          border: none;
+          border-bottom: 2px solid #141414;
+          outline: none;
+          color: #171717;
+          &.Pending{
+            background: #2dccff;
+          }
+          &.Confirm{
+            background: #fce83a;
+          }
+          &.Delivery{
+            background: #ffb302;
+          }
+          &.Delivered{
+            background: #56f000;
+          }
+          &.Cancelled{
+            background: #ff3838;
+          }
+        }
+      }
+      th {
+        background-color: #4ecdc4;
+      }
+
+      tr:nth-of-type(even) td {
+        background-color: lighten(#4ecdc4, 35%);
+      }
+
+      .total {
+        th {
+          background-color: white;
+        }
+
+        td {
+          text-align: right;
+          font-weight: 700;
+        }
+      }
+    }
+
+    .mobile-header {
+      display: none;
+    }
+
+    @media only screen and (max-width: 760px) {
+      p {
+        display: block;
+        font-weight: bold;
+      }
+
+      table {
+        tr {
+          td:not(:first-child),
+          th:not(:first-child),
+          td:not(.total-val) {
+            display: none;
+          }
+
+          &:nth-of-type(even) td:first-child {
+            background-color: lighten($nav_clr, 35%);
+          }
+          &:nth-of-type(odd) td:first-child {
+            background-color: white;
+          }
+
+          &:nth-of-type(even) td:not(:first-child) {
+            background-color: white;
+          }
+
+          th:first-child {
+            width: 100%;
+            display: block;
+          }
+
+          th:not(:first-child) {
+            width: 40%;
+            transition: transform 0.4s ease-out;
+            transform: translateY(-9999px);
+            position: relative;
+            z-index: -1;
+          }
+
+          td:not(:first-child) {
+            transition: transform 0.4s ease-out;
+            transform: translateY(-9999px);
+            width: 60%;
+            position: relative;
+            z-index: -1;
+          }
+          td:first-child {
+            display: block;
+            cursor: pointer;
+          }
+
+          &.total th {
+            width: 25%;
+            display: inline-block;
+          }
+
+          td.total-val {
+            display: inline-block;
+            transform: translateY(0);
+            width: 75%;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 768px) {
+  .main {
+    --width: 100%;
+  }
+  .dashboard_infor {
+    flex-direction: column;
+    .revenue-chart {
+      width: calc(100% - var(--spacing) * 2) !important;
+    }
+    .calendar {
+      width: calc(100% - var(--spacing) * 2) !important;
+    }
+  }
+
+  .cardBox {
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+  .recentOrders {
+    overflow-x: auto;
+  }
+  .product-panel,
+  .categories-panel {
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+}

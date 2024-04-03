@@ -1,0 +1,87 @@
+D:\LTUD\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\LTUD\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\LTUD\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.pdb
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Bai1.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai10.Form1.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai11.Form1.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\bai2.Bai2.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai4.bai4.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai5.Bai5.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai6.bai6.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai7.bai7.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai8.Form1.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai9.bai9.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.menu_baitap_winfrom1.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.bai3.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form5.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form8.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form9.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form6.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form10.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form7.resources
+D:\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form2.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Bai1.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai10.Form1.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai11.Form1.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\bai2.Bai2.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.bai3.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai4.bai4.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai5.Bai5.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai6.bai6.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai7.bai7.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai8.Form1.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai9.bai9.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form10.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form2.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form5.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form6.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form7.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form8.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form9.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.menu_baitap_winfrom1.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\admin\Downloads\phamhuuky_20211TT1548\LTUD\Bai1\Bai1\obj\Debug\Bai1.pdb
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Bai1.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai10.Form1.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai11.Form1.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\bai2.Bai2.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.bai3.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai4.bai4.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai5.Bai5.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai6.bai6.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai7.bai7.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai8.Form1.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai9.bai9.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form10.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form2.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form5.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form6.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form7.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form8.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Form9.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.menu_baitap_winfrom1.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\Lập Trình Ứng Dụng\Huỳnh Thanh Trọng_21211TT0497_LTUD\LTUD\Bai1\Bai1\obj\Debug\Bai1.pdb

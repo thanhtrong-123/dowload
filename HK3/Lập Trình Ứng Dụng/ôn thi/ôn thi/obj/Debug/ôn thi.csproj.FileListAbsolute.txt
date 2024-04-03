@@ -1,0 +1,10 @@
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn thi.csproj.AssemblyReference.cache
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn_LTUD.Form1.resources
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn_thi.Properties.Resources.resources
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn thi.csproj.GenerateResource.cache
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn thi.csproj.CoreCompileInputs.cache
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\bin\Debug\ôn thi.exe.config
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\bin\Debug\ôn thi.exe
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\bin\Debug\ôn thi.pdb
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn thi.exe
+D:\Lập Trình Ứng Dụng\ôn thi\ôn thi\obj\Debug\ôn thi.pdb

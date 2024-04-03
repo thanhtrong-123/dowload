@@ -1,0 +1,194 @@
+.body-background{
+    padding-left: 110px;
+    padding-right: 110px;
+    background: #0e0e0e;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin: 15px 25px;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: 30px;
+    padding-left: 69px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+    font-size: 15px;
+    border-top: #468a8d 1px solid;
+    border-bottom: #468a8d 1px solid;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #488b8d;
+    font-size: 15px;
+}   
+.navbar-light:hover
+{
+    background: #323e3e55;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    margin-right: 126px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: white;
+    font-size: 15px;
+    border-top: #468a8d 1px solid;
+    border-bottom: #468a8d 1px solid;
+}
+header.top-header
+{
+    /* background: url(../images/banner1.jpg); */
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    right: 0;
+    top: 0;
+}
+.navbar
+{
+    border-bottom: #468a8d 1px solid;
+}
+
+.banner
+{
+    /* padding-top: 150px;
+    padding-bottom: 150px; */
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+.banner img{
+    width: 100%;
+    height: 100vh;
+}
+.banner .content-banner{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 70px 0 70px;
+}
+.banner .content-banner .box-content-bannner{
+    width: 60%;
+
+}
+.banner .content-banner .box-content-bannner .tieude
+{
+    color: #fff;
+    font-weight: 360;
+    font-size: 3.5em;
+}
+.banner p
+{
+    color: #e5eadf;
+    font-size: 30px;
+    font-weight: 400;
+}
+.banner .muiten
+{
+    display: inline-block;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 100;
+}
+.btn-about{
+    display: inline-block;
+    color: #e2f5f7;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 15px;
+    border: 2px solid #fff;
+    margin-top: 15px;
+}
+.btn-book
+{
+    display: inline-block;
+    color: #e2f5f7;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 15px;
+    border: 2px solid #fff;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.btn-about:hover
+{
+    background: #4e7d87;
+    color: #e2f5f7;
+}
+.btn-book:hover
+{
+    background: #4e7d87;
+    color: #e2f5f7;
+}
+
+
+.content
+{
+    background: #fff;
+    height: 300vh;
+}
+.content .content-td1{
+    width: 41%;
+}
+.content-td1
+{
+    position: absolute;
+    width: 100%;
+    padding: 100px 70px 50px;
+}
+.content .content-td .content-td1 .a1
+{
+    font-weight: 500;
+    font-size: 26px;
+    color: hsl(251deg 13% 26%);
+}
+.content-td p
+{
+    color: hsl(204deg 4% 52%);  
+}
+
+.content-td2 img
+{
+    margin-left: 670px;
+    margin-top: 80px;
+}
+.content .content-icon
+{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    justify-content: space-between;
+    padding: 40px 70px 0px 100px;
+    width: 79%;
+    height: 148px;
+    display: flex;
+}
+.content .content-icon a
+{
+    font-size: 30px;
+}
+.content .content-icon .icon-solieu
+{
+    font-size: 40px;
+}
+.content-product .content-tieude
+{
+    display: inline-block;
+    margin: 700px 319px 10px;
+    text-align: center;
+}
+.content-product .content-tieude .content-h1
+{
+    font-weight: 500;
+    font-size: 3em;
+}
+

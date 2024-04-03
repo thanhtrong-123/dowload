@@ -1,0 +1,17 @@
+body
+{
+    background:darkturquoise;
+    position: absolute;
+    top:40%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    
+}
+.A
+{
+    color:lightpink;
+    font-size:3em;
+}
+form{
+    font-size:2em;
+}

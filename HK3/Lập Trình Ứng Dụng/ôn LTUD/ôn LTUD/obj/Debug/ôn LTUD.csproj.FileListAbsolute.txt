@@ -1,0 +1,13 @@
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\bin\Debug\ôn LTUD.exe.config
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\bin\Debug\ôn LTUD.exe
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\bin\Debug\ôn LTUD.pdb
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn LTUD.csproj.AssemblyReference.cache
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn_LTUD.Form1.resources
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn_LTUD.Properties.Resources.resources
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn LTUD.csproj.GenerateResource.cache
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn LTUD.csproj.CoreCompileInputs.cache
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn LTUD.exe
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn LTUD.pdb
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn_LTUD.Main.resources
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn_LTUD.Form2.resources
+D:\Lập Trình Ứng Dụng\ôn LTUD\ôn LTUD\obj\Debug\ôn_LTUD.Form3.resources

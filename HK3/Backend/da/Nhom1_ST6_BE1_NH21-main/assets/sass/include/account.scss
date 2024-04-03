@@ -1,0 +1,127 @@
+.account-container {
+  .title-area {
+    margin-top: 36px;
+    .title {
+      text-align: center;
+      font-size: 5rem;
+      font-weight: 600;
+    }
+    p{
+      text-align: center;
+      margin: 20px;
+      font-weight: 600;
+      font-family: sans-serif;
+    }
+    a {
+      color: $fontclr;
+      display: block;
+      margin-top: 16px;
+      text-align: center;
+      font-size: 2.6rem;
+      font-weight: normal;
+      font-family: "Montserrat", sans-serif;
+      width: max-content;
+      margin: 15px auto;
+    }
+  }
+  .order-history {
+    display: flex;
+    justify-content: center;
+    margin-top: 36px;
+    flex-direction: column;
+    align-items: center;
+    .order-wraper{
+      width: 100%;
+      max-width: 1222px;
+    }
+    .history-title{
+      margin-right: auto;
+      font-weight: 400;
+      font-size: 2.6rem;
+      font-weight: 600;
+    }
+    .no-order{
+      margin-top: 16px;
+    }
+    .my_account_orders {
+      margin-top: 16px;
+      border-collapse: collapse;
+      border-spacing: 0;
+      max-width: 1222px;
+      width: 100%;
+      font-size: 1.8rem;
+      font-family: "Montserrat", sans-serif;
+    }
+    a {
+      color: #28acd7;
+      text-decoration: none;
+      
+    }
+    .my_account_orders th {
+      text-align: left;
+    }
+
+    tr {
+      border-bottom: 1px solid #ccc;
+    }
+    .amount{
+      
+      white-space: nowrap;
+      overflow: hidden;    
+      text-overflow: ellipsis;
+      max-width: 500px;
+      margin: 10px 0;
+      display: block;
+    }
+    th,
+    td {
+      padding: 6px;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+
+    @media only screen and (max-width: 600px) {
+      /* Force table to not be like tables anymore */
+      table,
+      thead,
+      tbody,
+      th,
+      td,
+      tr {
+        display: block;
+      }
+
+      /* Hide table headers (but not display: none;, for accessibility) */
+      thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+      }
+
+      td {
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 35%;
+      }
+
+      td:last-child {
+        border-width: 0;
+      }
+
+      td:before {
+        content: attr(data-title);
+        color: #ccc;
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+      }
+    }
+  }
+}

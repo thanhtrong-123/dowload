@@ -1,0 +1,4 @@
+HangHoa{maHang=MH01, tenHang=Chén, giaTien=10000.0, soLuong=20, noiSanXuat=Cần Thơ, ngaySanXuat=29/12/2022}
+HangHoa{maHang=MH02, tenHang=Dĩa, giaTien=9.9999999E7, soLuong=10, noiSanXuat=Bình Thuận, ngaySanXuat=23/12/2022}
+HangHoa{maHang=MH03, tenHang=Bát, giaTien=15000.0, soLuong=30, noiSanXuat=Bình Thuận, ngaySanXuat=22/12/2022}
+HangHoa{maHang=MH04, tenHang=Muỗng, giaTien=5000.0, soLuong=30, noiSanXuat=Đồng Nai, ngaySanXuat=20/12/2022}

@@ -1,0 +1,64 @@
+body{
+    background: red;
+}
+header.top-header{
+    background: #23272a;
+}
+.logo
+{
+    padding: 15px 0;
+}
+.bg-orange
+{
+    background: #de482b;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.banner h1{
+    color: #de482b;
+    margin-top: 50px;
+    font-weight: normal;
+}
+.banner p{
+    color: #7e949a;
+    font-size: 1.3em;
+}
+.btn-shop{
+    display: inline-block;
+    background: #8fa7ae;
+    color: #23272a;
+    text-decoration: none;
+    padding: 3px 25px;
+    font-size: 1.1em;
+    border-radius: 100px;
+}
+.tieude{
+    background: #232323;
+    color: #fff;
+    padding: 15px;
+    margin-top: 30px;
+}
+.item{
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+}
+.item .item-name{
+    color: #e44f2b;
+    text-decoration: none;
+}
+.item .item-price{
+    font-size: 1.3em;
+    border-top: 1px solid #ebebeb;
+}
+.btn-add{
+    background: #8fa7ae;
+    color: #fff;
+    padding: 2px 15px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-top: 15px;
+    display: inline-block;
+}

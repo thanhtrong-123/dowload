@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content%}
+<style>
+    body {
+        font-family: "Roboto", sans-serif;
+        font-size: 18px;
+        background-color: #fdfdfd;
+    }
+
+    .head_text {
+        color: white;
+    }
+
+    .card {
+        box-shadow: 0 16px 48px #E3E7EB;
+    }
+</style>
+<h1>Draft</h1>
+
+<div class="container">
+    <div class="row">
+        <!-- Blog Entries Column -->
+        <div class="col-md-8 mt-3 left">
+            {% for post in object_list %}
+            {% if post.draft == True%}
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h2 class="card-title">{{ post.title }}</h2>
+                    <p class="card-text text-muted h6">{{ post.author }} | {{ post.post_date}} </p>
+                    <p class="card-text">{{post.body|slice:":200"|safe }}</p>
+                    <a href="{% url 'ArticalDetail' post.pk %}" class="btn btn-primary">Read More &rarr;</a>
+                    {% if user.is_authenticated and user.is_superuser or user.is_staff %}
+                        <a href="{%url 'EditPostView' post.pk%}" class="btn btn-success">Edit</a> 
+                        <a href="{%url 'DeletePostView' post.pk%}" class="btn btn-danger">Delete</a>
+                    {% endif %}
+                </div>
+            </div>
+            {%endif%}
+            {% endfor %}
+        </div>
+        {% block sidebar %} {% include 'sidebar.html' %} {% endblock sidebar %}
+    </div>
+</div>
+
+
+
+
+
+
+{%endblock%}
